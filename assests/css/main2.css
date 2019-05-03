@@ -1,0 +1,50 @@
+﻿
+.div_main {
+    color: #FFFFFF;
+    font-family: 'Century Gothic';
+  
+}
+.upld {
+    border: thin solid #000000;
+    color: #FFFFFF;
+    Height:21px;
+     Width:500px;
+   font-family: 'Century Gothic';
+}
+.txt {
+  /*  color: #FFFFFF;*/
+  border: thin solid #000000;
+    color: #FFFFFF;
+    background-color: transparent;
+    Height:21px;
+     Width:500px;
+   font-family: 'Century Gothic';
+}
+    .txt:hover { 
+       /* color: #FFFFFF;
+         border-width: medium;
+          border-color: #FFFFFF; */
+        border: thin solid transparent;
+    color: #000000;
+          background-color: transparent;
+     Height:21px;
+     Width:500px;
+   /*border-bottom-style: groove;*/
+   font-family: 'Century Gothic';
+    }
+.btn {
+    border: thin solid #000000;
+    color: #FFFFFF;
+    background-color: transparent;
+    Height: 33px;
+    Width: 200px;
+    font-family: 'Century Gothic';
+}
+    .btn:hover {
+        border: thin solid transparent;
+    color: #000000;
+    background-color: transparent;
+    Height: 33px;
+    Width: 200px;
+    font-family: 'Century Gothic';
+    }
